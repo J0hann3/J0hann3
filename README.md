@@ -31,3 +31,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0hann3&langs_count=10&layout=compact" />
 </p>
+
+## Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:johanne.vgn@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanne-vigny-7076b033b)
+
