@@ -1,4 +1,5 @@
 # About me
+Embedded Software Developer | C & Assembly Developer | Low-Level Programming Enthusiast | Student 42Paris
 ## Studying at
 ![42](https://img.shields.io/badge/-42_paris-black?style=for-the-badge&logo=42&logoColor=white)
 
@@ -32,10 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0hann3&langs_count=10&layout=compact" />
 </p>
 
-## Common Core 42 School Paris
-![Holy_graph](/img/holy_graph.png)
-
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:johanne.vgn@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanne-vigny-7076b033b)
 
+## Common Core 42 School Paris
+![Holy_graph](/img/holy_graph.png)
